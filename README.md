@@ -1,3 +1,3 @@
 # birga
-# Запускайте программу следующим образом: java -jar birga.jar [CLIENTFILE] [ORDERFILE]
-# В результате должен создаться файл result.txt с результатами обработки заявок
+# Запускайте программу следующим образом: java -jar birga-jar-with-dependencies.jar [CLIENTFILE] [ORDERFILE] [RESULTFILE]
+# В результате должен создаться файл [RESULTFILE] с результатами обработки заявок
